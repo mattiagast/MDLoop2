@@ -2,6 +2,7 @@
 import numpy as np
 import sympy as sp
 import pysindy as ps
+import D_CODE
 import dill
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import root_mean_squared_error
