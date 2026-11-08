@@ -1,8 +1,6 @@
 # Symbolic-SINDy: Data-Driven Model Discovery
 
-This repository contains the code developed for the Master's thesis:
-
-**[Data-driven discovery of dynamical systems through Symbolic-SINDy](https://www.politesi.polimi.it/handle/10589/251217)**
+This repository contains the code developed for the Master's thesis: **[Data-driven discovery of dynamical systems through Symbolic-SINDy](https://www.politesi.polimi.it/handle/10589/251217)**
 
 The work investigates how the synergy between **Symbolic Regression (SR)** and **Sparse Identification of Nonlinear Dynamics (SINDy)** can provide an effective approach to challenging model discovery tasks. By combining the complementary strengths of these two methodologies, Symbolic-SINDy aims to overcome some of their individual limitations, improving model discovery capabilities while maintaining computational efficiency and reducing the need for prior knowledge.
 
