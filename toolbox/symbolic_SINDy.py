@@ -1,3 +1,13 @@
+"""
+A new version of the Symbolic-SINDy model discovery strategy.
+This version has been built on the original version:
+https://github.com/grgromano/MD-Loop
+In particular it allows:
+- a complete storage of the model information
+- a better handling of the final model selection 
+- an uncertainty quantification framework based on Ensemble-SINDy (E-SINDy) logic
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pysindy as ps
